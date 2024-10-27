@@ -8,7 +8,7 @@ const Mail = () => {
                 <p className="text-gray-600 font-medium">Get the latest updates and news right in your inbox!</p>
                 <div className="flex flex-col lg:flex-row md:flex-row gap-y-2 gap-x-2 justify-center items-center">
                     <input className="border shadow-md px-4 py-2 rounded-lg" type="email" placeholder="Enter Your Email" />
-                    <button className="bg-gradient-to-r from-indigo-300 via-orange-300 to-orange-400 px-4 py-2 rounded-lg">Subscribe</button>
+                    <button className="bg-gradient-to-r from-red-400 via-orange-400 to-yellow-300 px-4 py-2 rounded-lg">Subscribe</button>
                 </div>
             </nav>
         </div>

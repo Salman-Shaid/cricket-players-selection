@@ -13,7 +13,7 @@ const AllCart = ({handleSelectedProduct}) => {
     },[])
 
     return (
-        <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-5">
+        <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 p-5">
             {
                 carts.map((cart,idx)=><Single handleSelectedProduct={handleSelectedProduct} key={idx} cart={cart}></Single>)
             }
