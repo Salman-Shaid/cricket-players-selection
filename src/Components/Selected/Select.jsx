@@ -4,7 +4,7 @@ const Select = ({ selectedProduct, handleDelete }) => {
     // console.log(selectedProduct);
     return (
         <div>
-            <h3 className="text-2xl font-bold ml-4"> Selected player({selectedProduct.length}/6)</h3>
+            <h3 className="text-2xl font-bold ml-4 mb-6"> Selected player({selectedProduct.length}/6)</h3>
             {
                 selectedProduct.map((p) => (
                     <div className="flex justify-between items-center px-5 bg-gray-100  m-2 rounded-lg">
