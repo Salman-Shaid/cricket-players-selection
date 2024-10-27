@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover": "https://media.sportstiger.com/media/virat-kohli-pulled-one-of-the-best-t20i-knocks-as-india-registered-iconic-win-vs-pakistan-in-2022-t20-world-cup-sportstiger-1729591641548-original.webp",
+      "player_name": "Virat Kohli",
+      "country": "India",
+      "player_career": "2011-2020",
+      "batting_style": "Opener",
+      "price": 120000,
+      "batting_direction": "Right-handed",
+      "player_status": "Batter",
+      "logo": "https://i.ibb.co.com/XYRPhZn/cricket-match-with-player-3.jpg"
+    },
+    {
+      "id": 2,
+      "cover": "https://crictoday.com/wp-content/uploads/2024/08/Shakib-Al-Hasan.webp",
+      "player_name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "player_career": "2006-Present",
+      "batting_style": "All-rounder",
+      "price": 950000,
+      "batting_direction": "Left-handed",
+      "player_status": "All-rounder",
+      "logo": ""
+    },
+    {
+      "id": 3,
+      "cover": "https://images.prothomalo.com/prothomalo-english%2F2022-01%2Fcbd3e6b6-3486-4261-8d65-4ebfaacc245e%2FTamim.jpg?rect=0%2C0%2C3300%2C2200&auto=format%2Ccompress&fmt=webp&format=webp&w=640&dpr=1.0",
+      "player_name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "player_career": "2007-Present",
+      "batting_style": "Opening Batter",
+      "price": 110000,
+      "batting_direction": "Left-handed",
+      "player_status": "Batter",
+      "logo": ""
+    },
+    {
+      "id": 4,
+      "cover": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202206/RTXJ4D9P_1200x768.png?VersionId=9mwEitHURMU0ZSI.xkCacHpPODgQoKD3&size=690:388",
+      "player_name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "player_career": "2015-Present",
+      "batting_style": "Bowler",
+      "price": 130000,
+      "batting_direction": "Left-handed",
+      "player_status": "Bowler",
+      "logo": ""
+    },
+    {
+      "id": 5,
+      "cover": "https://crictoday.com/wp-content/uploads/2022/03/Rohit-Sharma.jpg",
+      "player_name": "Rohit Sharma",
+      "country": "India",
+      "player_career": "2007-Present",
+      "batting_style": "Opener",
+      "price": 1000000,
+      "batting_direction": "Right-handed",
+      "player_status": "All-rounder",
+      "logo": ""
+    },
+    {
+      "id": 6,
+      "cover": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1280,q_80/lsci/db/PICTURES/CMS/383400/383408.jpg",
+      "player_name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "player_career": "2007-Present",
+      "batting_style": "Middle-order",
+      "price": 1050000,
+      "batting_direction": "Right-handed",
+      "player_status": "All-rounder",
+      "logo": ""
+    }
+  ]
+  
