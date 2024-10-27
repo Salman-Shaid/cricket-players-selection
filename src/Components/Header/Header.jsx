@@ -1,7 +1,6 @@
 import profile from '../../assets/logo.png'
 import { AiFillDollarCircle } from "react-icons/ai";
 
-
 const Header = ({coin}) => {
     return (
         <div className="flex lg:flex-row md:flex-row flex-col  justify-between p-4 items-center mx-auto">
