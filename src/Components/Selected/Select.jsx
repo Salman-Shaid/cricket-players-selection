@@ -24,7 +24,7 @@ const Select = ({ selectedProduct, handleDelete }) => {
                 ))
             }
 
-            <button className='btn mx-2 p-2 bg-[#e2f928] text-black rounded-lg font-medium'>Add More Players</button>
+            
         </div>
     );
 };

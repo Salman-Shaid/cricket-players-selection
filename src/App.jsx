@@ -5,7 +5,7 @@ import Header from "./Components/Header/Header";
 import Mail from "./Components/Mail/Mail";
 import Main from "./Components/Main/Main";
 import Nav from "./Components/Navbar/Nav";
-import AllCart from "./Components/AllCart/AllCart";
+import AllCart from "./Components/AllCart/AllCart.jsx";
 import toast from "react-hot-toast";
 
 function App() {
