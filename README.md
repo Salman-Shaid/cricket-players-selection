@@ -1,4 +1,4 @@
-# Project Name : Assignment-7 
+# Project Name : Cricket
 
 
 # A brief description. 
